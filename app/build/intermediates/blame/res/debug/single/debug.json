@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "C:\\Users\\VV\\AndroidStudioProjects\\SequreChat\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\VV\\AndroidStudioProjects\\SequreChat\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\VV\\AndroidStudioProjects\\SequreChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smopened.png.flat",
+        "source": "C:\\Users\\VV\\AndroidStudioProjects\\SequreChat\\app\\src\\main\\res\\drawable\\smopened.png"
+    },
+    {
+        "merged": "C:\\Users\\VV\\AndroidStudioProjects\\SequreChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher.png.flat",
+        "source": "C:\\Users\\VV\\AndroidStudioProjects\\SequreChat\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\VV\\AndroidStudioProjects\\SequreChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable_leftarrow.png.flat",
+        "source": "C:\\Users\\VV\\AndroidStudioProjects\\SequreChat\\app\\src\\main\\res\\drawable\\leftarrow.png"
+    },
+    {
+        "merged": "C:\\Users\\VV\\AndroidStudioProjects\\SequreChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable_key.png.flat",
+        "source": "C:\\Users\\VV\\AndroidStudioProjects\\SequreChat\\app\\src\\main\\res\\drawable\\key.png"
+    },
+    {
+        "merged": "C:\\Users\\VV\\AndroidStudioProjects\\SequreChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smkey.png.flat",
+        "source": "C:\\Users\\VV\\AndroidStudioProjects\\SequreChat\\app\\src\\main\\res\\drawable\\smkey.png"
+    },
+    {
+        "merged": "C:\\Users\\VV\\AndroidStudioProjects\\SequreChat\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_allconnections.xml.flat",
+        "source": "C:\\Users\\VV\\AndroidStudioProjects\\SequreChat\\app\\src\\main\\res\\layout\\activity_allconnections.xml"
+    },
+    {
+        "merged": "C:\\Users\\VV\\AndroidStudioProjects\\SequreChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable_keybitmap.xml.flat",
+        "source": "C:\\Users\\VV\\AndroidStudioProjects\\SequreChat\\app\\src\\main\\res\\drawable\\keybitmap.xml"
+    },
+    {
+        "merged": "C:\\Users\\VV\\AndroidStudioProjects\\SequreChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rightarrow.png.flat",
+        "source": "C:\\Users\\VV\\AndroidStudioProjects\\SequreChat\\app\\src\\main\\res\\drawable\\rightarrow.png"
+    },
+    {
+        "merged": "C:\\Users\\VV\\AndroidStudioProjects\\SequreChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smrightarrow.png.flat",
+        "source": "C:\\Users\\VV\\AndroidStudioProjects\\SequreChat\\app\\src\\main\\res\\drawable\\smrightarrow.png"
+    },
+    {
+        "merged": "C:\\Users\\VV\\AndroidStudioProjects\\SequreChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smclosed.png.flat",
+        "source": "C:\\Users\\VV\\AndroidStudioProjects\\SequreChat\\app\\src\\main\\res\\drawable\\smclosed.png"
+    },
+    {
+        "merged": "C:\\Users\\VV\\AndroidStudioProjects\\SequreChat\\app\\build\\intermediates\\res\\merged\\debug\\anim_fadin.xml.flat",
+        "source": "C:\\Users\\VV\\AndroidStudioProjects\\SequreChat\\app\\src\\main\\res\\anim\\fadin.xml"
+    },
+    {
+        "merged": "C:\\Users\\VV\\AndroidStudioProjects\\SequreChat\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\VV\\AndroidStudioProjects\\SequreChat\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\VV\\AndroidStudioProjects\\SequreChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable_opened.png.flat",
+        "source": "C:\\Users\\VV\\AndroidStudioProjects\\SequreChat\\app\\src\\main\\res\\drawable\\opened.png"
+    },
+    {
+        "merged": "C:\\Users\\VV\\AndroidStudioProjects\\SequreChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable_keybright.png.flat",
+        "source": "C:\\Users\\VV\\AndroidStudioProjects\\SequreChat\\app\\src\\main\\res\\drawable\\keybright.png"
+    },
+    {
+        "merged": "C:\\Users\\VV\\AndroidStudioProjects\\SequreChat\\app\\build\\intermediates\\res\\merged\\debug\\layout_channelrowlayout.xml.flat",
+        "source": "C:\\Users\\VV\\AndroidStudioProjects\\SequreChat\\app\\src\\main\\res\\layout\\channelrowlayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\VV\\AndroidStudioProjects\\SequreChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smleftarrow.png.flat",
+        "source": "C:\\Users\\VV\\AndroidStudioProjects\\SequreChat\\app\\src\\main\\res\\drawable\\smleftarrow.png"
+    },
+    {
+        "merged": "C:\\Users\\VV\\AndroidStudioProjects\\SequreChat\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_channel.xml.flat",
+        "source": "C:\\Users\\VV\\AndroidStudioProjects\\SequreChat\\app\\src\\main\\res\\layout\\activity_channel.xml"
+    },
+    {
+        "merged": "C:\\Users\\VV\\AndroidStudioProjects\\SequreChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable_closed.png.flat",
+        "source": "C:\\Users\\VV\\AndroidStudioProjects\\SequreChat\\app\\src\\main\\res\\drawable\\closed.png"
+    }
+]

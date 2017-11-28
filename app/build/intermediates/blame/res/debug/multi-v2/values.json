@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\VV\\AndroidStudioProjects\\SequreChat\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\VV\\AndroidStudioProjects\\SequreChat\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,104,182,246,307",
+                        "endColumns": "48,77,63,60,59",
+                        "endOffsets": "99,177,241,302,362"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\VV\\AndroidStudioProjects\\SequreChat\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "7,17,-1",
+                        "startColumns": "4,4,-1",
+                        "startOffsets": "194,529,-1",
+                        "endLines": "14,19,-1",
+                        "endColumns": "12,12,-1",
+                        "endOffsets": "488,686,-1"
+                    },
+                    "to": {
+                        "startLines": "7,15,18",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "367,659,819",
+                        "endLines": "14,17,23",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "654,814,1095"
+                    }
+                }
+            ]
+        }
+    ]
+}

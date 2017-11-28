@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Secure Chat</string>
+    <string name="title_activity_main">Secure Chat</string>
+    <string name="title_activity_channel">Channel Info</string>
+    <string name="title_activity_login">Sequre Chat</string>
+    <string name="default_chatserver">http://172.30.101.215/chat.php</string>
+</resources>

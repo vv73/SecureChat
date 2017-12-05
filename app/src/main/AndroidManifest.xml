@@ -28,7 +28,7 @@
         <activity
             android:name="ru.samsung.itschool.secchat.LoginActivity"
             android:label="@string/title_activity_login"
-            android:screenOrientation="portrait" >
+            android:screenOrientation="landscape" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

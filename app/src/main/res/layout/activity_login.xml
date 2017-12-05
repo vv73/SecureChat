@@ -53,7 +53,9 @@
             android:layout_alignParentTop="true"
             android:layout_centerHorizontal="true"
             android:layout_gravity="center"
-            android:text="Chat server:" />
+            android:text="Chat server:"
+            android:visibility="gone"
+            />
 
         <EditText
             android:id="@+id/la_chatserver"
@@ -61,8 +63,8 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:inputType="textPersonName"
-            android:text="http://sitevv.ru/tmp/chat.php" >
-        </EditText>
+            android:text="http://sitevv.ru/tmp/chat.php"
+            android:visibility="gone" />
     </LinearLayout>
 
 </RelativeLayout>

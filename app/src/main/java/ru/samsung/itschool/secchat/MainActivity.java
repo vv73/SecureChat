@@ -206,6 +206,7 @@ public class MainActivity extends Activity {
 	public void sendMessage(View v) {
 		EditText et = (EditText) (this.findViewById(R.id.mess));
 		String message = et.getText().toString();
+		et.setText("");
 		EditText toUser = (EditText) MainActivity.this.findViewById(R.id.to);
 		String to = toUser.getText().toString();
 		DHChannel connection = dbManager.getChannel(this.myName, to);
